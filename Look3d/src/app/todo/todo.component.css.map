@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAK;EACH,KAAK,EAAE,kBAAkB;;AAE3B,2BAA4B;EAC1B,MAAM,EAAC,aAAa;;AAEtB,yBAA0B;EACxB,MAAM,EAAC,eAAe",
+"sources": ["todo.component.scss"],
+"names": [],
+"file": "todo.component.css"
+}
